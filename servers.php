@@ -10,12 +10,11 @@
 <div id="Container">
 				<div id="Header">
 					<div id="Banner">
-						<center><div id="Logo"><a id="logo" title="RBXLegacy" href="index.html" style="display:inline-block;cursor:pointer;"><img src="images/Logo.png" border="0" id="img" alt="Origins06"/></a></div></center>
+						<center><div id="Logo"><a id="logo" title="RBlX" href="index.html" style="display:inline-block;cursor:pointer;"><img src="images/Logo.png" border="0" id="img" alt="Origins06"/></a></div></center>
 					</div>
 					<div class="Navigation">
 						<span><a id="Servers" class="MenuItem" href="servers.html">Servers</a></span>
-						<span class="Separator"> | </span>
-						<span><a id="About" class="MenuItem" href="about.html">About</a></span>
+						
  					</div>
 				</div>
 				<div id="Body">
@@ -24,7 +23,7 @@
 		<div id="MainPanel">
 			<center>
 			<h2>Games</h2>
-            <h3>I host on RBXLegacy Versions 2008, 2009, 2010, and 2011.</h3>
+            <h3>HOST</h3>
 
             <div id="ElementInsert">
               <center>
@@ -82,7 +81,7 @@
                 <h3>
                   <b>Player Limit: 14</b>
                 </h3>
-                <form action="RBXLegacy://TnpNdU1qUXlMalV4TGpJMXxOVE0yTkRBPXxNakF4TVE9PQ==">
+                <form action="RBX://TnpNdU1qUXlMalV4TGpJMXxOVE0yTkRBPXxNakF4TVE9PQ==">
                   <div id="JoinButton">
                     <input value="Join" type="submit">
                   </div>
@@ -94,9 +93,7 @@
 	</div>
 	</div>
 	
-	<div id="Footer">
-    Note: I do not host copyrighted content so please don't sue me. Servers are also NOT 24/7 and the maps do change.
-	</div>
+	
 			</div>
 	</body>
 </html>
