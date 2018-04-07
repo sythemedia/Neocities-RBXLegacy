@@ -10,12 +10,11 @@
 <div id="Container">
 				<div id="Header">
 					<div id="Banner">
-						<center><div id="Logo"><a id="logo" title="RBXLegacy" href="index.html" style="display:inline-block;cursor:pointer;"><img src="images/6DCCBF27-4C5D-485D-8D03-BB5D815D078A.png" border="0" id="img" alt="Origins06"/></a></div></center>
+						<center><div id="Logo"><a id="logo" title="RBXLegacy" href="index.php" style="display:inline-block;cursor:pointer;"><img src="images/6DCCBF27-4C5D-485D-8D03-BB5D815D078A.png" border="0" id="img" alt="Origins06"/></a></div></center>
 					</div>
 					<div class="Navigation">
-						<span><a id="Servers" class="MenuItem" href="servers.html">Servers</a></span>
-						<span class="Separator"> | </span>
-						<span><a id="About" class="MenuItem" href="about.html">About</a></span>
+						<span><a id="Servers" class="MenuItem" href="servers.php">Servers</a></span>
+						
  					</div>
 				</div>
 				<div id="Body">
