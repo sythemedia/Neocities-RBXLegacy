@@ -25,7 +25,7 @@
 			<center>
 			<h2>Welcome to RBXLThunder!</h2>
 
-            <h3>WE ARE IN BETA TESTING?</h3>
+            <h3>WE ARE IN BETA TESTING!</h3>
 			<img src="images/rbxlegacymain.png" width="480" height="360" frameborder="0">
 			</center>
 		</div>
