@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="pee">
 <head>
-<title>Win's RBXLegacy Server</title>
+<title>RBXLTHUNDER</title>
 <link rel="stylesheet" type="text/css" href="style.css" title="normal"/>
 <link rel="Shortcut Icon" type="image/ico" href="images/WinServer.ico"/>
 <script type="text/javascript" src="js/js_funcs.js"></script>
