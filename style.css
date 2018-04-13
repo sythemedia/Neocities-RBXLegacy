@@ -141,3 +141,16 @@ input[type="submit"]
 #SplashContainer #genlink {
     color: red;
 }
+
+
+#SplashNote #MainPanel
+{
+	background-color: #B22222;
+	border: solid 2px #ccc;
+	float: right;
+	margin: 0 0 10px 0;
+	padding: 20px;
+	position: relative;
+	text-align: center;
+	width: 400px;
+}
