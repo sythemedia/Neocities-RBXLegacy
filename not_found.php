@@ -6,6 +6,6 @@
   <body>
     <h1>404 Not Found</h1>
     <p>The requested page was not found.</p>
-    <a href="index.html">Click here to go to the home page.</a>
+    <a href="index.php">Click here to go to the home page.</a>
   </body>
 </html>
