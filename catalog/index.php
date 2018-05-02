@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="pee">
 <head>
 <title>THUNDER - CATALOG</title>
-<link rel="stylesheet" type="text/css" href="style.css" title="normal"/>
+<link rel="stylesheet" type="text/css" href="thundersite/style.css" title="normal"/>
 <link rel="Shortcut Icon" type="image/ico" href="images/WinServer.ico"/>
 <script type="text/javascript" src="js/js_funcs.js"></script>
 </head>
