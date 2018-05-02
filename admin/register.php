@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>THUNDER - ADMIN</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="header">
